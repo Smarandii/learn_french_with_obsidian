@@ -1,3 +1,4 @@
+```python
 prem_pers_sing = input('Première personne du singulier: ')
 deux_pers_sing = input('Deuxième personne du singulier: ')
 troi_pers_sing = input('Troisième personne du singulier: ')
@@ -24,4 +25,7 @@ f'- Troisième personne du pluriel: **ils/elles ils ont {participe_passe}**']
 
 with open(fr"D:\Media content\Stankin\French_Vault\Verbs\-v {data}.md" , "w") as f:
 	f.writelines(template)
-	
+```
+
+
+run with cmd: `python "D:\Media content\Stankin\French_Vault\Scripts\verb_template.py"`
