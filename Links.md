@@ -1,1 +1,1 @@
-[Verbes conjugation](https://www.the-conjugation.com/french/verb/)
+[Verbes conjugation](https://www.the-conjugation.com/french/)
